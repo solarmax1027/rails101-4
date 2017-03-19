@@ -42,6 +42,7 @@ end
 
 gem 'bootstrap-sass'
 gem 'simple_form'
+gem 'devise'
 
 
 group :development do
